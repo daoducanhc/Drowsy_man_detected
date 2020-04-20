@@ -1,0 +1,13 @@
+{
+    "cascade_path":  "resources/haarcascade_frontalface_default.xml",
+
+    "shape_predictor_path": "resources/shape_predictor_68_face_landmarks.dat",
+
+    "EAR_MIN": 0.3,
+    "EAR_FRAMES": 6,
+
+    "MAR_MIN": 0.65,
+    "MAR_FRAMES": 150,
+    "MAR_RESET_TIME": 300
+
+}
